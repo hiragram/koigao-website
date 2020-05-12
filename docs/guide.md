@@ -26,7 +26,7 @@ https://apps.apple.com/jp/app/id1507679306
 
 ## PC用アプリを起動する
 
-macOSの方は `/Application` にインストールされた `Koigao.app` を、Windowsの方はzipを展開したフォルダの `Koigao.exe` を起動します。
+macOSの方は `/Applications` にインストールされた `Koigao.app` を、Windowsの方はzipを展開したフォルダの `Koigao.exe` を起動します。
 
 セキュリティ警告やネットワーク警告が出た場合は、実行を許可してください。iPhoneから接続するために必要になります。
 

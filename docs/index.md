@@ -22,3 +22,14 @@ iPhoneX以降のFaceID対応モデルに搭載されたTrueDepthカメラを用�
 - iPhoneを設置するためのスタンド/マウント
   - おすすめ: [JOBY ゴリラポッド](https://amzn.to/34K76Q6)
   - マウントはお使いのiPhoneのサイズにあったものを選択してください。例えば[これ](https://amzn.to/3alKYg4)
+
+## 導入方法
+
+[こちら](./guide.html) をご覧ください。
+
+## お問い合わせ先
+
+メール: koigao@hiragram.app
+Twitter: https://twitter.com/hiragram
+
+簡単な質問やご意見であればTwitterで伺えますが、内容によってはメールにて再度送っていただくようお願いする場合がございます。
