@@ -4,14 +4,13 @@
 
 ## PC用アプリをダウンロード
 
+ダウンロードは [こちら](https://github.com/hiragram/koigao-release/releases/latest) から。
 ご利用のOSに合わせて必要なファイルをダウンロードしてください。
 
 - macOS版: Koigao.pkg
   - ダウンロードしたインストーラを開いて指示に従ってください。セキュリティ警告が出てインストーラが開けない場合は、インストーラを右クリック→「開く」を選択すると実行できるようになります。
 - Windows版: Koigao_win.zip
   - ダウンロードしたzipを展開してください。
-
-ダウンロードは [こちら](https://github.com/hiragram/koigao-release/releases/latest) から。
 
 ## iPhone用アプリをダウンロード
 
