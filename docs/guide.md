@@ -24,9 +24,13 @@ https://apps.apple.com/jp/app/id1507679306
 
 macOSの方は `/Application` にインストールされた `Koigao.app` を、Windowsの方はzipを展開したフォルダの `Koigao.exe` を起動します。
 
-画面サイズや描画品質はお好みで選択して、Playボタンを押します。
+セキュリティ警告やネットワーク警告が出た場合は、実行を許可してください。iPhoneから接続するために必要になります。
 
-iPhoneからの通信を受け付けるためにネットワークやセキュリティに関するダイアログが出ることがありますが、その際は許可してください。
+Windowsの以下のアラートは、「詳細情報」→「実行」
+
+![](./images/windows-security-alert-1.png)
+
+画面サイズや描画品質はお好みで選択して、Playボタンを押します。
 
 ## iPhone用アプリで接続IDを設定する
 
