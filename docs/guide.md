@@ -18,7 +18,7 @@
 以下からiPhone用アプリをダウンロードしてください。
 現在PCでご覧の方は、iPhoneのカメラにQRコードを映すとAppStoreに飛べて便利です。
 
-https://apps.apple.com/jp/app/id1507679306
+[https://apps.apple.com/jp/app/id1507679306](https://apps.apple.com/jp/app/id1507679306)
 
 ![](images/qrcode_appstore.jpg)
 
