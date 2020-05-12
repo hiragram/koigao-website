@@ -20,6 +20,10 @@ https://apps.apple.com/jp/app/id1507679306
 
 ![](images/qrcode_appstore.jpg)
 
+## PCとiPhoneを同じWifiに接続する
+
+恋顔は、PCとiPhoneが同じネットワークに接続されていないと動作しません。また、一般的な家庭のネットワークを想定しており、オフィス環境や公衆wifiなどでの動作はサポートしていません。
+
 ## PC用アプリを起動する
 
 macOSの方は `/Application` にインストールされた `Koigao.app` を、Windowsの方はzipを展開したフォルダの `Koigao.exe` を起動します。
